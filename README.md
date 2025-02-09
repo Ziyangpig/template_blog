@@ -7,7 +7,7 @@
   Add your open source license, GitHub uses MIT license.
 -->
 
-This site is live at https://ziyangpig.github.io/
+This site is live at https://ziyangpig.github.io/+repo name
 
 <footer>
 
