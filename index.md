@@ -5,9 +5,7 @@ title: ML SLIDE NOTE
 # Content
 
 
-[Generalization Error](./Generalization Error.html)
 
-[Linear model](./Linear model.html)
+[template](./template.html)
 
-[Optimizaiton Method](./Optimization Algorithm.md)
 
